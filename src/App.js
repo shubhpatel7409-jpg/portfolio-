@@ -174,7 +174,7 @@ export default function Portfolio() {
 
       {/* Footer */}
       <footer style={{ padding: '20px', textAlign: 'center', borderTop: '1px solid #334155', color: '#64748b' }}>
-        <p>© 2024 Mark. All rights reserved.</p>
+        <p>© 2026 shubh. All rights reserved.</p>
       </footer>
     </div>
   );
